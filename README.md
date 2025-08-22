@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dylan 
+<h1>Hi, I'm Dylan, an IT Professional 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
